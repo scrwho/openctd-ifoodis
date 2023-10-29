@@ -99,18 +99,18 @@ https://github.com/OceanographyforEveryone/OpenCTD/blob/main/Documentation/Manua
 
 # Screenshots of the Parts and tools
 
-![Web-capture_27-10-2023_141725_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD\Documentation\Manual\tools\Web-capture_27-10-2023_141725_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
-![Web-capture_27-10-2023_141826_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD\Documentation\Manual\tools\Web-capture_27-10-2023_141826_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
-![Web-capture_27-10-2023_141850_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD\Documentation\Manual\tools\Web-capture_27-10-2023_141850_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
-![Web-capture_27-10-2023_141929_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD\Documentation\Manual\tools\Web-capture_27-10-2023_141929_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
-![Web-capture_27-10-2023_142032_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD\Documentation\Manual\tools\Web-capture_27-10-2023_142032_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
-![Web-capture_27-10-2023_142053_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD\Documentation\Manual\tools\Web-capture_27-10-2023_142053_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
-![Web-capture_27-10-2023_14209_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD\Documentation\Manual\tools\Web-capture_27-10-2023_14209_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
-![Web-capture_27-10-2023_142254_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD\Documentation\Manual\tools\Web-capture_27-10-2023_142254_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
-![Web-capture_27-10-2023_142313_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD\Documentation\Manual\tools\Web-capture_27-10-2023_142313_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
-![Web-capture_27-10-2023_142349_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD\Documentation\Manual\tools\Web-capture_27-10-2023_142349_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
-![Web-capture_27-10-2023_142415_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD\Documentation\Manual\tools\Web-capture_27-10-2023_142415_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
-![Web-capture_27-10-2023_142455_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD\Documentation\Manual\tools\Web-capture_27-10-2023_142455_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
+![Web-capture_27-10-2023_141725_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD/Documentation/Manual/tools/Web-capture_27-10-2023_141725_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
+![Web-capture_27-10-2023_141826_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD/Documentation/Manual/tools/Web-capture_27-10-2023_141826_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
+![Web-capture_27-10-2023_141850_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD/Documentation/Manual/tools/Web-capture_27-10-2023_141850_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
+![Web-capture_27-10-2023_141929_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD/Documentation/Manual/tools/Web-capture_27-10-2023_141929_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
+![Web-capture_27-10-2023_142032_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD/Documentation/Manual/tools/Web-capture_27-10-2023_142032_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
+![Web-capture_27-10-2023_142053_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD/Documentation/Manual/tools/Web-capture_27-10-2023_142053_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
+![Web-capture_27-10-2023_14209_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD/Documentation/Manual/tools/Web-capture_27-10-2023_14209_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
+![Web-capture_27-10-2023_142254_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD/Documentation/Manual/tools/Web-capture_27-10-2023_142254_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
+![Web-capture_27-10-2023_142313_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD/Documentation/Manual/tools/Web-capture_27-10-2023_142313_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
+![Web-capture_27-10-2023_142349_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD/Documentation/Manual/tools/Web-capture_27-10-2023_142349_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
+![Web-capture_27-10-2023_142415_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD/Documentation/Manual/tools/Web-capture_27-10-2023_142415_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
+![Web-capture_27-10-2023_142455_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD/Documentation/Manual/tools/Web-capture_27-10-2023_142455_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
 
 
 
@@ -118,12 +118,12 @@ https://github.com/OceanographyforEveryone/OpenCTD/blob/main/Documentation/Manua
 
 
 ## Some Tools Available
-![IMG-20231027-WA0003.jpg](OpenCTD\Documentation\Manual\available\IMG-20231027-WA0003.jpg)
-![IMG-20231027-WA0005.jpg](OpenCTD\Documentation\Manual\available\IMG-20231027-WA0005.jpg)
-![IMG-20231027-WA0006.jpg](OpenCTD\Documentation\Manual\available\IMG-20231027-WA0006.jpg)
-![WhatsApp-Image-2023-10-27-at-14.33.26_f75f182d.jpg](OpenCTD\Documentation\Manual\available\WhatsApp-Image-2023-10-27-at-14.33.26_f75f182d.jpg)
-![WhatsApp-Image-2023-10-27-at-14.33.27_2111816d.jpg](OpenCTD\Documentation\Manual\available\WhatsApp-Image-2023-10-27-at-14.33.27_2111816d.jpg)
-![WhatsApp-Image-2023-10-27-at-14.33.27_f802645e.jpg](OpenCTD\Documentation\Manual\available\WhatsApp-Image-2023-10-27-at-14.33.27_f802645e.jpg)
+![IMG-20231027-WA0003.jpg](OpenCTD/Documentation/Manual/available/IMG-20231027-WA0003.jpg)
+![IMG-20231027-WA0005.jpg](OpenCTD/Documentation/Manual/available/IMG-20231027-WA0005.jpg)
+![IMG-20231027-WA0006.jpg](OpenCTD/Documentation/Manual/available/IMG-20231027-WA0006.jpg)
+![WhatsApp-Image-2023-10-27-at-14.33.26_f75f182d.jpg](OpenCTD/Documentation/Manual/available/WhatsApp-Image-2023-10-27-at-14.33.26_f75f182d.jpg)
+![WhatsApp-Image-2023-10-27-at-14.33.27_2111816d.jpg](OpenCTD/Documentation/Manual/available/WhatsApp-Image-2023-10-27-at-14.33.27_2111816d.jpg)
+![WhatsApp-Image-2023-10-27-at-14.33.27_f802645e.jpg](OpenCTD/Documentation/Manual/available/WhatsApp-Image-2023-10-27-at-14.33.27_f802645e.jpg)
 
 
 
