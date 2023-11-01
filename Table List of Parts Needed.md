@@ -1,21 +1,3 @@
-# 1. OpenCTD Build Notes
-
-Key website documentation: 
-    https://github.com/OceanographyforEveryone/OpenCTD/tree/main
-    
-        (26.10.2023) 
-        Trying to print the base parts:
-OpenCTD_14Bar_Baseplate.3mf
-OpenCTD_ElectronicsChassis_Bottom.3mf
-OpenCTD_ElectronicsChassis_Top.3mf
-Printing using standard high resolution settings (0.1mm)
-
-
-
-#### The [manual](https://github.com/OceanographyforEveryone/OpenCTD/blob/main/Documentation/Manual/OpenCTD_ConstructionOperation.pdf) contain the full list to for the system.
-https://github.com/OceanographyforEveryone/OpenCTD/blob/main/Documentation/Manual/OpenCTD_ConstructionOperation.pdf
-
-
 ## Table List of Parts Needed
 
 | | Item | Description | Link | Price (€) | Comments |
@@ -41,51 +23,3 @@ https://github.com/OceanographyforEveryone/OpenCTD/blob/main/Documentation/Manua
 | 64 | Conductivity calibration solution | For calibrating conductivity probe | [https://atlas-scientific.com/calibration-solutions/conductivity-calibration-k-1-0-set/](https://atlas-scientific.com/calibration-solutions/conductivity-calibration-k-1-0-set/) | 15.89 |
 | 65 | openrov 30bar IMU | Waterproof IMU Link not found yet |   | 10.99 | *please check !!*
 | 66 | 10 DOF IMU Sensor | Possible Waterproof IMU | [https://www.waveshare.com/10-dof-imu-sensor-b.htm](https://www.waveshare.com/10-dof-imu-sensor-b.htm)  | 10.99 | Alternative to openrov 30bar IMU
-
-
-
-- - -
-
-
-## Screenshots of all the Parts and tools
-
-![Web-capture_27-10-2023_141725_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD/Documentation/Manual/tools/Web-capture_27-10-2023_141725_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
-![Web-capture_27-10-2023_141826_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD/Documentation/Manual/tools/Web-capture_27-10-2023_141826_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
-![Web-capture_27-10-2023_141850_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD/Documentation/Manual/tools/Web-capture_27-10-2023_141850_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
-![Web-capture_27-10-2023_141929_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD/Documentation/Manual/tools/Web-capture_27-10-2023_141929_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
-![Web-capture_27-10-2023_142032_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD/Documentation/Manual/tools/Web-capture_27-10-2023_142032_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
-![Web-capture_27-10-2023_142053_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD/Documentation/Manual/tools/Web-capture_27-10-2023_142053_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
-![Web-capture_27-10-2023_14209_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD/Documentation/Manual/tools/Web-capture_27-10-2023_14209_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
-![Web-capture_27-10-2023_142254_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD/Documentation/Manual/tools/Web-capture_27-10-2023_142254_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
-![Web-capture_27-10-2023_142313_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD/Documentation/Manual/tools/Web-capture_27-10-2023_142313_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
-![Web-capture_27-10-2023_142349_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD/Documentation/Manual/tools/Web-capture_27-10-2023_142349_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
-![Web-capture_27-10-2023_142415_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD/Documentation/Manual/tools/Web-capture_27-10-2023_142415_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
-![Web-capture_27-10-2023_142455_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg](OpenCTD/Documentation/Manual/tools/Web-capture_27-10-2023_142455_gfdkcfdhglbbcnllmbgkfkfbmnfkncio.jpeg)
-
-
-
-- - -
-
-
-## Some Tools Available
-![IMG-20231027-WA0003.jpg](OpenCTD/Documentation/Manual/available/IMG-20231027-WA0003.jpg)
-![IMG-20231027-WA0005.jpg](OpenCTD/Documentation/Manual/available/IMG-20231027-WA0005.jpg)
-![IMG-20231027-WA0006.jpg](OpenCTD/Documentation/Manual/available/IMG-20231027-WA0006.jpg)
-![WhatsApp-Image-2023-10-27-at-14.33.26_f75f182d.jpg](OpenCTD/Documentation/Manual/available/WhatsApp-Image-2023-10-27-at-14.33.26_f75f182d.jpg)
-![WhatsApp-Image-2023-10-27-at-14.33.27_2111816d.jpg](OpenCTD/Documentation/Manual/available/WhatsApp-Image-2023-10-27-at-14.33.27_2111816d.jpg)
-![WhatsApp-Image-2023-10-27-at-14.33.27_f802645e.jpg](OpenCTD/Documentation/Manual/available/WhatsApp-Image-2023-10-27-at-14.33.27_f802645e.jpg)
-
-
-
-
-
-
-
-
-
-
-
-# 2. openglider project
-
-
-
