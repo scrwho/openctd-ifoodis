@@ -5,7 +5,7 @@ The Insturctions, Components and the files for the project can be located below
 
 - [OSUG-Underwater-glider-instructions.pdf](dreamspace-underwater-glider/OSUG-Underwater-glider-instructions.pdf)
 - [The-Open-Source-Underwater-Glider-Components.pdf](dreamspace-underwater-glider/The-Open-Source-Underwater-Glider-Components.pdf)
-- [The Open-Source Underwater Glider Files.pdf](The-Open-Source-Underwater-Glider-Files.pdf)
+- [The-Open-Source-Underwater-Glider-Files.pdf](dreamspace-underwater-glider/The-Open-Source-Underwater-Glider-Files.pdf)
 
 
 The Components and their purchase link below:
